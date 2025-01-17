@@ -1,0 +1,49 @@
+# Política de Privacidad
+
+Respetamos tu privacidad y nos comprometemos a proteger tus datos personales. Esta
+política describe cómo recopilamos, usamos, almacenamos y protegemos la información que
+compartes con nosotros.
+
+## Datos Recopilados
+
+Al visitar nuestro sitio, recopilamos información básica como:
+
+- Dirección IP.
+- Tiempo y duración de la visita.
+- Comportamiento en el sitio (páginas visitadas, enlaces clicados).
+- Información proporcionada voluntariamente (por ejemplo, correo electrónico para
+  suscripciones).
+
+## Uso de los Datos
+
+Utilizamos los datos recopilados para:
+
+- Mejorar la experiencia del usuario en nuestro sitio.
+- Analizar el tráfico y el rendimiento del sitio.
+- Enviar correos electrónicos de suscripción (si te has suscrito).
+
+## Cookies y Tecnologías Similares
+
+Utilizamos cookies y tecnologías similares para rastrear el comportamiento de los usuarios
+y mejorar nuestros servicios. Estas cookies nos permiten:
+
+- Recordar tus preferencias.
+- Analizar el uso del sitio.
+
+Puedes gestionar o desactivar las cookies desde la configuración de tu navegador.
+
+## Suscripción
+
+Si te suscribes a nuestro boletín, recopilamos y almacenamos tu correo electrónico. Este
+dato se utiliza exclusivamente para enviarte actualizaciones y promociones. Puedes
+cancelar tu suscripción en cualquier momento haciendo clic en el enlace de "Cancelar
+suscripción" incluido en cada correo.
+
+Los correos electrónicos proporcionados a través de mensajes de contacto se almacenan
+durante un período máximo de 30 días, después de los cuales se eliminan automáticamente.
+
+## Contacto
+
+Si tienes preguntas sobre esta política de privacidad o deseas ejercer tus derechos sobre
+tus datos personales, no dudes en contactarnos a través de nuestra
+[página de contacto](/contacto).
